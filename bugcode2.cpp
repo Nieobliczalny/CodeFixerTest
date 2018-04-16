@@ -5,7 +5,6 @@ using namespace std;
 int main(void)
 {
     int a;
-    a = 3;
     a = 0;
     if (a == 0)
     {
