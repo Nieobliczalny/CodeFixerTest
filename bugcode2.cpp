@@ -6,7 +6,7 @@ int main(void)
 {
     int a;
     a = 0;
-    if (a == 0)
+    if (a != 0)
     {
         int b = 1 / a;
         cout << b << endl;
